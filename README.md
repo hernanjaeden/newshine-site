@@ -37,7 +37,7 @@ GitHub Pages has no form backend. There, set the form's `action` to a service su
 
 ## Before going live: replace placeholders
 
-- Phone `(902) 555-0123` and email `hello@newshinedetailing.ca` in the footer
+- Phone `(902) 555-0143` and email `book@newshinedetailing.ca` in the footer (already set)
 - Facebook / Instagram links in the footer
 - Prices in the Services section
 - Testimonials (currently samples; use real, permitted customer quotes)
